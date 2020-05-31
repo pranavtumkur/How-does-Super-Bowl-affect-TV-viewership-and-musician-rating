@@ -6,10 +6,10 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 
 In this project, we will find out how some of the elements of this show interact with each other. We will answer questions like:
 
-<li> • What are the most extreme game outcomes?
-<li> • How does the game affect television viewership?
-<li> • How have viewership, TV ratings, and ad cost evolved over time?
-<li> • Who are the most prolific musicians in terms of halftime show performances?
+<li> What are the most extreme game outcomes?
+<li> How does the game affect television viewership?
+<li> How have viewership, TV ratings, and ad cost evolved over time?
+<li> Who are the most prolific musicians in terms of halftime show performances?
 
 ## The Data
 The dataset we'll use was scraped and polished from Wikipedia. It is made up of three CSV files, one with [game data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_champions), one with [TV data](https://en.wikipedia.org/wiki/Super_Bowl_television_ratings), and one with [halftime musician data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows) for all 52 Super Bowls through 2018.
