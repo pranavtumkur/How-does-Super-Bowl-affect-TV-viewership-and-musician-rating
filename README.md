@@ -6,9 +6,8 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 
 In this project, we will find out how some of the elements of this show interact with each other. We will answer questions like:
 <ul>
-<li>What are the most extreme game outcomes?
-<li>How does the game affect television viewership?
-<li>How have viewership, TV ratings, and ad cost evolved over time?
+What are the most extreme game outcomes?
+How does the game affect television viewership?s<li>How have viewership, TV ratings, and ad cost evolved over time?
 <li>Who are the most prolific musicians in terms of halftime show performances?
 <\ul>
 
@@ -26,3 +25,4 @@ For the Super Bowl game data, we can see the dataset appears whole except for mi
 <li><code>share_18_49</code> (average % of U.S. adults 18-49 who live in a household with a TV <em>in use</em> that were watching for the entire broadcast)</li>
 </ul>
 <p>For the halftime musician data, there are missing numbers of songs performed (<code>num_songs</code>) for about a third of the performances.</p>
+Though it would be nice to have this data, the effort to fetch this data and incorporate into the dataset is too much and the insights obtained do not seen worth it. Also most of the msissing data is historical data of the 90s.
