@@ -6,8 +6,8 @@ Whether or not you like football, the Super Bowl is a spectacle. There's drama i
 
 In this project, we will find out how some of the elements of this show interact with each other. We will answer questions like:
 <ul>
-What are the most extreme game outcomes?
-How does the game affect television viewership?s<li>How have viewership, TV ratings, and ad cost evolved over time?
+<li>What are the most extreme game outcomes?
+<li>How does the game affect television viewership?s<li>How have viewership, TV ratings, and ad cost evolved over time?
 <li>Who are the most prolific musicians in terms of halftime show performances?
 <\ul>
 
