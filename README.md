@@ -50,7 +50,7 @@ It turns out Michael Jackson's Super Bowl XXVII performance, one of the most wat
 
 The world famous [Grambling State University Tiger Marching Band](https://www.youtube.com/watch?v=RL_3oqpHiDg) takes the crown with six appearances. Beyoncé, Justin Timberlake, Nelly, and Bruno Mars are the only post-Y2K musicians with multiple appearances (two each).
 
-## 10. Conclusion
+## Conclusion
 
 So most non-band musicians do 1-3 songs per halftime show. It's important to note that the duration of the halftime show is fixed (roughly 12 minutes) so songs per performance is more a measure of how many hit songs you have. JT went off in 2018, wow. 11 songs! Diana Ross comes in second with 10 in her medley in 1996.
 
