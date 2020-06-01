@@ -44,7 +44,7 @@ I remember watching the Seahawks crush the Broncos by 35 points (43-8) in 2014, 
 
 Plotitng a time-graph, we see that the viewers increased before ad costs did. Maybe the networks weren't very data savvy and were slow to react?
 
-It turns out Michael Jackson's Super Bowl XXVII performance, one of the most watched events in American TV history, was when the NFL realized the value of Super Bowl airtime and decided they needed to sign big name acts from then on out. The halftime shows before MJ indeed weren't that impressive, which we can see by filtering our halftime_musician data.
+It turns out Michael Jackson's Super Bowl XXVII performance, one of the most watched events in American TV history, was when the NFL realized the value of Super Bowl airtime and decided they needed to sign big name acts from then on out. The halftime shows before MJ indeed weren't that impressive, which we can see by filtering our [halftime_musician data](https://en.wikipedia.org/wiki/List_of_Super_Bowl_halftime_shows).
 
 ## Who performed the most songs in a halftime show?
 
